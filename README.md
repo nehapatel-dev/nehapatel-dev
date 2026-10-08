@@ -120,6 +120,12 @@ A web platform focused on connecting usable items with people who can benefit fr
 - 🥈 **TechX26 — 2nd Runner-Up**
 - 🏅 **VIVEKA — Top 10 Finalist**
 - 🎖️ **NCC B Certificate**
+
+- ## 📜 Certifications & Training
+
+- 🎓 **Full Stack Web Development** — Analyze Infotech
+- 🤖 **AI/ML Training & Internship** — IICT
+- 💻 **1-Month Web Development Internship** — TechnoHacks
 ## 📫 Connect With Me
 
 * **LinkedIn:** [https://www.linkedin.com/in/nehapatel08](https://www.linkedin.com/in/nehapatel08)
