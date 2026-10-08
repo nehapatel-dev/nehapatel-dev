@@ -114,6 +114,12 @@ A women-focused web platform developed for a hackathon to provide safety-related
 **Web Development • Donation Platform**
 
 A web platform focused on connecting usable items with people who can benefit from them, encouraging reuse and responsible donation.
+
+## 🏆 Achievements & Hackathons
+
+- 🥈 **TechX26 — 2nd Runner-Up**
+- 🏅 **VIVEKA — Top 10 Finalist**
+- 🎖️ **NCC B Certificate**
 ## 📫 Connect With Me
 
 * **LinkedIn:** [https://www.linkedin.com/in/nehapatel08](https://www.linkedin.com/in/nehapatel08)
