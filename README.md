@@ -63,6 +63,42 @@ Worked on a real-world web application, contributing to backend-related tasks, d
 - 🚀 Worked with **cPanel hosting, deployment, backend debugging, and testing**.
 
 > 🔒 **Confidentiality:** Company source code, databases, credentials, client information, and internal assets are not included in this profile.
+>
+> ## 🚀 Featured Projects
+
+### 🔹 Smart Productivity API
+**Django REST Framework • JWT • Swagger/OpenAPI**
+
+A REST API designed for productivity management with authentication and API documentation.
+
+🔗 [View Project](YOUR_GITHUB_REPO_LINK)
+
+---
+
+### 🔹 Sentinel Auth System
+**Django • Authentication • Security**
+
+A secure authentication-focused web application built to understand user authentication and authorization workflows.
+
+🔗 [View Project](YOUR_GITHUB_REPO_LINK)
+
+---
+
+### 🔹 PhishGuard.AI
+**Python • Machine Learning • Django**
+
+A phishing email detection application that classifies emails as **Safe or Phishing** and provides a risk-level prediction.
+
+🔗 [View Project](YOUR_GITHUB_REPO_LINK)
+
+---
+
+### 🔹 SheRoutes
+**React • Web Development**
+
+A women-focused platform developed during a hackathon to provide useful location-based safety information and resources.
+
+🔗 [Live Project](YOUR_LIVE_PROJECT_LINK)
 ## 📫 Connect With Me
 
 * **LinkedIn:** [https://www.linkedin.com/in/nehapatel08](https://www.linkedin.com/in/nehapatel08)
