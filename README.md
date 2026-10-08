@@ -66,39 +66,54 @@ Worked on a real-world web application, contributing to backend-related tasks, d
 >
 > ## 🚀 Featured Projects
 
+### 🔹 PhishGuard.AI
+**Python • Machine Learning • Django**
+
+A phishing email detection application that classifies emails as **Safe or Phishing** and provides risk-level predictions.
+
+---
+
 ### 🔹 Smart Productivity API
 **Django REST Framework • JWT • Swagger/OpenAPI**
 
-A REST API designed for productivity management with authentication and API documentation.
-
-🔗 [View Project](YOUR_GITHUB_REPO_LINK)
+A REST API for productivity management with authentication, JWT-based authorization, and API documentation.
 
 ---
 
 ### 🔹 Sentinel Auth System
 **Django • Authentication • Security**
 
-A secure authentication-focused web application built to understand user authentication and authorization workflows.
-
-🔗 [View Project](YOUR_GITHUB_REPO_LINK)
+A web application focused on secure user authentication and authorization workflows.
 
 ---
 
-### 🔹 PhishGuard.AI
-**Python • Machine Learning • Django**
+### 🔹 NagarNiti Grid
+**Web Development • React • Interactive Dashboard**
 
-A phishing email detection application that classifies emails as **Safe or Phishing** and provides a risk-level prediction.
+A web-based platform designed to present civic and city-related information through an interactive interface.
 
-🔗 [View Project](YOUR_GITHUB_REPO_LINK)
+---
+
+### 🔹 AdrishyaAI
+**React • Supabase • Node.js**
+
+A platform featuring anonymous reporting, audio complaints, legal-rights assistance, and a safety-focused information interface.
 
 ---
 
 ### 🔹 SheRoutes
-**React • Web Development**
+**Web Development • React**
 
-A women-focused platform developed during a hackathon to provide useful location-based safety information and resources.
+A women-focused web platform developed for a hackathon to provide safety-related resources and location-based information.
 
-🔗 [Live Project](YOUR_LIVE_PROJECT_LINK)
+🏆 **TechX26 — 2nd Runner-Up**
+
+---
+
+### 🔹 Don't Dump Donate
+**Web Development • Donation Platform**
+
+A web platform focused on connecting usable items with people who can benefit from them, encouraging reuse and responsible donation.
 ## 📫 Connect With Me
 
 * **LinkedIn:** [https://www.linkedin.com/in/nehapatel08](https://www.linkedin.com/in/nehapatel08)
